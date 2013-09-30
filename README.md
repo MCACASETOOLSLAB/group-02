@@ -1,7 +1,5 @@
 SleepingBarber.cpp
 ========
-This project is create using dev c++ 4.9.9.2.
-To run this project you need to install graphics.h file.
 
 
 Sleeping Barber
